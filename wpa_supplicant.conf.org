@@ -1,0 +1,5 @@
+network={
+    ssid="Ogden_2.5GHz"
+    psk="Polar2000"
+    key_mgmt=WPA-PSK
+}
